@@ -1,2 +1,2 @@
 # AutoAssign
-Assigning students seminar based on their topic preference
+Assigning seminar students based on their topic preference
